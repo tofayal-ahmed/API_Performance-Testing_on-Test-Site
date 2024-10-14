@@ -68,3 +68,6 @@ We received a 1600 success response along with the response data, indicating tha
 Click on the “View Results in Table” to view the results
 
 In essence, we simulated 50 users accessing a single API endpoint over a span of 10 seconds, with 5 users starting every second.
+
+![JMeter_Report](https://github.com/user-attachments/assets/8c1fdd9b-7f95-4f83-bf44-0f637e69c84e)
+
