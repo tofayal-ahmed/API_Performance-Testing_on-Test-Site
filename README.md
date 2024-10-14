@@ -1,11 +1,11 @@
 # API Testing
-## JMeter_Project
-API Performance Testing using JMeter
+
+##API Performance Testing using JMeter
 For doing performance testing of API’s, I will use dummy APIs from https://reqres.in/.
 
-Follow the below steps for setting up API’s for testing
+###Follow the below steps for setting up API’s for testing
 
-Step 1: Test Plan
+###Step 1: Test Plan
 
 A Test Plan acts as a framework for conducting tests. It specifies what needs to be tested and the methodology to be used. A well-structured test plan typically includes components such as:
 
@@ -16,7 +16,7 @@ Pre and Post Processors
 Configuration Elements, etc.
 It’s crucial to note that every test plan must include at least one thread group.
 
-Step 2: Setting Up the Test Plan
+###Step 2: Setting Up the Test Plan
 
 Now, we have to create a “Thread Group”, to do so right-click on the "Test Plan," then navigate to "Add > Threads (Users) > Thread Group."
 
@@ -69,5 +69,9 @@ Click on the “View Results in Table” to view the results
 
 In essence, we simulated 50 users accessing a single API endpoint over a span of 10 seconds, with 5 users starting every second.
 
+## Report_Summery 
 ![JMeter_Report](https://github.com/user-attachments/assets/8c1fdd9b-7f95-4f83-bf44-0f637e69c84e)
+![Report_summery](https://github.com/user-attachments/assets/e59de023-0ba5-4c90-9140-c38c164ac6ea)
+![Error ](https://github.com/user-attachments/assets/5e51356d-b5e7-4806-a51b-2488f2b91187)
+
 
