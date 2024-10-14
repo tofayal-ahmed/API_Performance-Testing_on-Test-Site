@@ -1,5 +1,5 @@
-## API Testing
-# JMeter_Project
+# API Testing
+## JMeter_Project
 API Performance Testing using JMeter
 For doing performance testing of API’s, I will use dummy APIs from https://reqres.in/.
 
