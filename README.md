@@ -1,6 +1,6 @@
 # API Testing
 
-## API Performance Testing using JMeter
+## API Performance Testing on Test site using JMeter
 For doing performance testing of API’s, I will use dummy APIs from https://reqres.in/.
 
 ### Follow the below steps for setting up API’s for testing
